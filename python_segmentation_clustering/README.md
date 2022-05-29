@@ -1,9 +1,9 @@
-Segment Shopping Customers
+# Segment Shopping Customers 
 
-1. <b>Problem Statement </b>
+## Problem Statement 
 understand the target customers for marketing team to plan a strategy
 
-2. <b>Context</b>
+## Context
 Your boss wants you to identify the most important shopping groups
 based on income,age, and the mall shopping score.
 
@@ -17,7 +17,7 @@ based on income,age, and the mall shopping score.
 
 5. we will be using unsupervised machine learning  algorithm to find the univariate,bivariate,and multi variate clusters
 
-6. <b>The Approach</b>
+6. ## The Approach
     1. Perform some quick EDA(Exploratory Data Analysis)
     2. Use KMEANS clustering Algorithim to greate segments
     3. Use Summary Statistics on the clusters
